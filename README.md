@@ -1,4 +1,4 @@
-# Used Car Price Valuation Infrastructure via Ensemble Regression Networks
+# Used Car Price Valuation Infrastructure VIA Ensemble Regression Networks
 
 This repository houses a production-grade machine learning regression framework engineered to predict used vehicle market valuations. The architecture optimizes an end-to-end data pipeline—combining regex-based text extraction, high-cardinality categorical encoding, and a composite heterogeneous ensemble voting infrastructure—to minimize prediction residual variance.
 
